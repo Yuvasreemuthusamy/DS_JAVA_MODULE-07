@@ -86,4 +86,4 @@ class Node {
 
 
 ## Result:
-Thus, the C program to perfom right rotation on linked list is implemented successfully.
+Thus, the JAVA program to perfom right rotation on linked list is implemented successfully.
